@@ -38,7 +38,7 @@
     
 
 -----------------------------------------------------------------------------------*/
-@import url("../../css2");
+@import url("../../css2.css");
 :root {
   --font-body: 'Lexend Deca', sans-serif;
   --font-heading: 'Lexend Deca', sans-serif;
